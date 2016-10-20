@@ -30,4 +30,8 @@ TODO later:
 
 +. on remote mode is age sensor working?
 
++. maybe use broken Note 3 and Rpi?
+   N3 has a IR transmitter
+   nice counting power
+   But Rpi as a starter ;) then N3 evo.
 
