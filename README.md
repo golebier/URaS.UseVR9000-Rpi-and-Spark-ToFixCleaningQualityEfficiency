@@ -6,7 +6,7 @@ So I and my eight years old son will do a project to fix that ;)
 
 Idea:
 
-1. VR9k remote control
+1. VR9k remote control(learn a few buttons, use IR transmitter to use maual mode)
 
 2. Raspberry pi with camera and IR mode(casing, powering and soldering)
 
@@ -31,7 +31,25 @@ TODO later:
 +. on remote mode is age sensor working?
 
 +. maybe use broken Note 3 and Rpi?
+
    N3 has a IR transmitter
+
    nice counting power
+
+   Rpi usb net to N3
+
    But Rpi as a starter ;) then N3 evo.
+
+   Rpi:
+
+      easy: video/picture streaming, joy streaming, first stage, different camera angles
+
+      !easy: IR, counting power
+
+   N3:
+
+      easy: Java/Scala, IR, 
+
+      !easy: camera only ceiling, 
+   
 
